@@ -8,7 +8,7 @@ Papi secret sauce 💦
 
 ## References
 - [Read and Execute Shellcode from a .txt File](https://stackoverflow.com/questions/17842499/read-and-execute-shellcode-from-a-txt-file)
-- [https://www.ired.team/offensive-security/code-injection-process-injection/writing-and-compiling-shellcode-in-c](https://www.ired.team/offensive-security/code-injection-process-injection/writing-and-compiling-shellcode-in-c)
+- [Writing and Compiling Shellcode in C](https://www.ired.team/offensive-security/code-injection-process-injection/writing-and-compiling-shellcode-in-c)
 - [Loading and Executing Shellcode From PE Resources](https://www.ired.team/offensive-security/code-injection-process-injection/loading-and-executing-shellcode-from-portable-executable-resources)
 - [Dynamic Shellcode Execution](https://blog.f-secure.com/dynamic-shellcode-execution/)
 
